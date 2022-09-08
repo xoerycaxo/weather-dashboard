@@ -20,4 +20,10 @@ This project was created by using:
 * Moment.js
 
 ## Screenshot
+("./images/weather.png")
 
+## Contact Information
+
+* Github: [xoerycaxo](#xoerycaxo) 
+* Email: [xoerycaxo@gmail.com](#xoerycaxo@gmail.com)
+* Website link: 
